@@ -3,7 +3,7 @@
 # TODO: EXERCISE 2
 #  Write a function that takes parameter age and returns 'adult' or 'not adult'.
 #  Hint - Legal Age.
-#  Print on console the result.
+#  Print on console the result. whe
 
 def is_adult?(age)
   if age >= 18
